@@ -1,0 +1,4 @@
+1- abre el programa
+2-selecciona inicio y crea un inventario
+3-completa los campos y crea un registro
+4-selecciona el registro creado y puedes eliminarlo o modificarlo
